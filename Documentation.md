@@ -8,7 +8,7 @@
 ### Shopping List
 I presented my idea and what materials I wanted to use in my presentation and got good feedback on that, so I ordered the following things:
 - Power Supply + Y-Split Adapter + DC Screw Terminal Adapters to contribute power from one source to both the LED strip and the arduino (see power setuo underneath)
-
+![Power supply setup](images/power_supply_setup.png)
 ## Coding Process
 
 ### 1. Step: Starting from an inspiration sketch
